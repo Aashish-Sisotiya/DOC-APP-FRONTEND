@@ -6,8 +6,8 @@ import reportWebVitals from "./reportWebVitals";
 import { Provider } from "react-redux";
 import store from "./redux/store";
 
-// export const server = "https://doc-appointment-app.onrender.com";
-export const server = "http://localhost:8080";
+export const server = "https://doctor-appointment-app-v0m5.onrender.com";
+// export const server = "http://localhost:8080";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
